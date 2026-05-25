@@ -19,8 +19,4 @@ An inventory application for managing products and stock records.
 - Arrays and Collections
 
 ## Developer
-<<<<<<< HEAD
 Muhammad Faraz Khan
-=======
-Muhammad Faraz Khan
->>>>>>> a3448995ee1018d8926cc2b4c5a167d057c24cbb

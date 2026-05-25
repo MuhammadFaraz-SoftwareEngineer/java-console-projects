@@ -1,7 +1,7 @@
 # Library Management System
 A Java console-based application for adding books, users and library issue/return operations.
 
-## Current Features
+## Features
 - Add books
 - Search books
 - Add students
