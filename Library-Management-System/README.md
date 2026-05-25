@@ -1,7 +1,7 @@
 # Library Management System
-A Java console-based application used to manage books and library operations.
+A basic Java console application for managing inventory and stock records.
 
-## Features
+## Current Features
 - Add books
 - Search books
 - Issue books
@@ -10,6 +10,11 @@ A Java console-based application used to manage books and library operations.
 ## Technologies Used
 - Java
 - OOP
+
+## Future Improvements
+- Product categories
+- Advanced search
+- File handling
 
 ## How To Run
 1. Open project in VS Code or IntelliJ
