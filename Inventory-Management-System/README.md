@@ -6,9 +6,12 @@ A basic Java console application for managing inventory and stock records.
 - View products
 - Basic stock management
 
-## Technologies Used
+## Concepts Used
 - Java
 - OOP
+- Arrays
+- Packages
+- Methods
 
 ## Future Improvements
 - Product categories

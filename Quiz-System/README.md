@@ -6,9 +6,12 @@ A Java console-based quiz application with multiple-choice questions and score c
 - Score calculation
 - User interaction through console
 
-## Technologies Used
+## Concepts Used
 - Java
 - OOP
+- Arrays
+- Packages
+- Methods
 
 ## How To Run
 1. Open project in VS Code or IntelliJ

@@ -12,11 +12,11 @@ A console-based quiz application with score calculation and multiple-choice ques
 ### 3. Inventory Management System
 An inventory application for managing products and stock records.
 
-## Technologies Used
+## Concepts Used
 - Java
 - Object-Oriented Programming (OOP)
 - File Handling
 - Arrays and Collections
 
-## Author
+## Developer
 Muhammad Faraz Khan
