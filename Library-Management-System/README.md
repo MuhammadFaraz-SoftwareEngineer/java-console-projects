@@ -8,7 +8,7 @@ A Java console-based application for adding books, users and library issue/retur
 - Issue books
 - Return book
 
-## Technologies Used
+## Concepts Used
 - Java
 - OOP
 - Arrays
